@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'baal'
+project = u'chan'
 copyright = u'2018, Abraham Arce'
 author = u'Abraham Arce'
 
@@ -104,7 +104,7 @@ html_theme = 'alabaster'
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'baalreleasenotesdoc'
+htmlhelp_basename = 'chanreleasenotesdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -131,7 +131,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'baalreleasenotes.tex', u'baal Release Notes',
+    (master_doc, 'chanreleasenotes.tex', u'chan Release Notes',
      u'Abraham Arce', 'manual'),
 ]
 
@@ -141,7 +141,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'baalreleasenotes', u'baal Release Notes',
+    (master_doc, 'chanreleasenotes', u'chan Release Notes',
      [u'Abraham Arce'], 1)
 ]
 
@@ -152,8 +152,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'baalreleasenotes', u'baal Release Notes',
-     u'Abraham Arce', 'baalreleasenotes', 'One line description of project.',
+    (master_doc, 'chanreleasenotes', u'chan Release Notes',
+     u'Abraham Arce', 'chanreleasenotes', 'One line description of project.',
      'Miscellaneous'),
 ]
 

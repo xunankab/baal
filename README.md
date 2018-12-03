@@ -1,6 +1,6 @@
-# Ba’al
+# Chan
 
-> Cosa, objeto. Thing, object.
+> Pequeño. Small.
 
 ## Links
 
